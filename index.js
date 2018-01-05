@@ -3,6 +3,4 @@ function shout(bob) {
 }
 
 
-function myFunc(age) {
-  return age;
-}
+learn testlearn test
