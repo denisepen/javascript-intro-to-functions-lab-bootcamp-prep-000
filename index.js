@@ -10,3 +10,8 @@ function logShout(string) {
   const uppercaseString = shout(string); 
   console.log(uppercaseString);
 }
+
+function logWhisper(string) {
+  const lowercaseString = whisper(string);
+  console.log(lowercaseString);
+}
