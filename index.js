@@ -2,5 +2,6 @@ function shout(bob) {
   return bob.toUpperCase();
 }
 
-
-learn testlearn test
+function whisper(varName) {
+  return varName.toLowerCase();
+}
