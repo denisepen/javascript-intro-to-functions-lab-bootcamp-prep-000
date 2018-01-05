@@ -17,5 +17,10 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
+  const lowercaseString = whisper(string);
+  const uppercaseString = shout(string);
   
+  if(string === lowercaseString) {
+    
+  }
 }
