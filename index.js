@@ -5,3 +5,5 @@ function shout(bob) {
 function whisper(varName) {
   return varName.toLowerCase();
 }
+
+function logShout
