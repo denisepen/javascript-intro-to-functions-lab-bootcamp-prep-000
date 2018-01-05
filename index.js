@@ -15,3 +15,7 @@ function logWhisper(string) {
   const lowercaseString = whisper(string);
   console.log(lowercaseString);
 }
+
+function sayHiToGrandma(string) {
+  
+}
