@@ -21,6 +21,8 @@ function sayHiToGrandma(string) {
   const uppercaseString = shout(string);
   
   if(string === lowercaseString) {
-    
+    return "I can\'t hear you!";
+  } else if (string === uppercaseString) {
+    return ""
   }
 }
